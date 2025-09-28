@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">คำนวณ BMI</string>
+    <string name="title_bmi_calculator">คำนวณดัชนีมวลกาย (BMI)</string>
+    <string name="label_weight">น้ำหนัก (กิโลกรัม):</string>
+    <string name="label_height">ส่วนสูง (เซนติเมตร):</string>
+    <string name="label_bmi_result">ค่าดัชนีมวลกาย:</string>
+    <string name="btn_calculate">คำนวณ</string>
+    <string name="hint_weight">เช่น 65</string>
+    <string name="hint_height">เช่น 168</string>
+    <string name="result_not_calculated">ยังไม่ได้คำนวณ</string>
+    <string name="error_empty_fields">กรุณากรอกข้อมูลให้ครบถ้วน</string>
+    <string name="error_invalid_values">กรุณากรอกค่าที่มากกว่า 0</string>
+    <string name="error_invalid_number">กรุณากรอกตัวเลขที่ถูกต้อง</string>
+    <string name="category_underweight">น้ำหนักน้อย</string>
+    <string name="category_normal">ปกติ</string>
+    <string name="category_overweight">ท้วม</string>
+    <string name="category_obese">อ้วน</string>
+    <string name="category_severely_obese">อ้วนมาก</string>
+    <string name="result_format">BMI: %1$s\\nสถานะ: %2$s</string>
+</resources>

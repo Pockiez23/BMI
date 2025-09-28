@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="diseases_array">
+        <item>โรคหัวใจ</item>
+        <item>เบาหวาน</item>
+        <item>ความดันโลหิตสูง</item>
+        <item>ไขมันในเลือดสูง</item>
+        <item>กระดูกพรุน</item>
+    </string-array>
+</resources>

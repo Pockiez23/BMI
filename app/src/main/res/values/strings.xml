@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="title_bmi_calculator">Body Mass Index Calculator</string>
+    <string name="label_weight">Weight (kg):</string>
+    <string name="label_height">Height (cm):</string>
+    <string name="label_bmi_result">BMI Result:</string>
+    <string name="btn_calculate">Calculate</string>
+    <string name="hint_weight">e.g. 65</string>
+    <string name="hint_height">e.g. 168</string>
+    <string name="result_not_calculated">Not calculated yet</string>
+    <string name="error_empty_fields">Please fill in all fields</string>
+    <string name="error_invalid_values">Please enter values greater than 0</string>
+    <string name="error_invalid_number">Please enter valid numbers</string>
+    <string name="category_underweight">Underweight</string>
+    <string name="category_normal">Normal</string>
+    <string name="category_overweight">Overweight</string>
+    <string name="category_obese">Obese</string>
+    <string name="category_severely_obese">Severely Obese</string>
+    <string name="result_format">BMI: %1$s\\nStatus: %2$s</string>
+</resources>

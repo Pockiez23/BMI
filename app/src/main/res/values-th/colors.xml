@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bmi_underweight">#F44336</color>      <!-- แดง -->
+    <color name="bmi_normal">#4CAF50</color>      <!-- เขียว -->
+    <color name="bmi_overweight">#FFC107</color>  <!-- เหลือง -->
+    <color name="bmi_obese">#FF9800</color>       <!-- ส้ม -->
+    <color name="bmi_severe">#F44336</color>      <!-- แดง -->
+</resources>
